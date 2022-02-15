@@ -1,92 +1,91 @@
-# Developer
+# デベロッパー
 
-Role also known as programmer or software engineer, requires a deep level of technical expertise.
+プログラマーまたはソフトウェアエンジニアとしても知られる役割には、深いレベルの技術的専門知識が必要です。
 
-| Level | Seniority | Position |
-| :---: | :---: | :---: |
-| 1 | Junior | [D1 - Developer 1](#d1---developer-1) |
-| 2 | Junior | [D2 - Developer 2](#d2---developer-2) |
-| 3 | Junior | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Senior | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Senior | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Senior | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Senior | [D7 - Developer 7](#d7---developer-7) |
+| レベル| シニア| 位置|
+|:---:|:---:|:---:|
+|1|ジュニア|[D1-開発者1](#d1---開発者-1)|
+|2|ジュニア|[D2-開発者2](#d2---開発者-2)|
+|3|ジュニア|[D3-開発者3](#d3---開発者-3)|
+|4|シニア|[D4-開発者4](#d4---開発者-4)|
+|5|シニア|[D5-開発者5](#d5---開発者-5)|
+|6|シニア|[D6-開発者6](#d6---開発者-6)|
+|7|シニア|[D7-開発者7](#d7---開発者-7)|
 
-## D1 - Developer 1
+## D1-開発者1
 
-![Developer 1](/charts/developer-1.png)
+![開発者1](/charts/developer-1.png)
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team
-* **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-* **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, delivering a consistent flow of features to production
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **採用**：チームによって定義されたテクノロジーとツールを積極的に学習して採用します
+* **強化**：システムを改善および拡張するための新機能とバグ修正を正常にプッシュします
+* **学習**：他の人からすばやく学習し、必要に応じて一貫してステップアップします
+* **フォロー**：チームプロセスに従い、一貫した機能フローを本番環境に提供します
+* **サブシステム**：1つ以上のサブシステムまたはチームポッドに影響を与えます
 
-## D2 - Developer 2
+## D2-開発者2
 
-![Developer 2](/charts/developer-2.png)
+![開発者2](/charts/developer-2.png)
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **採用**：チームによって定義されたテクノロジーとツールを積極的に学習して採用します
+* **設計**：システムの技術的負債を削減しながら、中規模から大規模の機能を設計および実装します
+* **サポート**：他のチームメンバーを積極的にサポートし、チームメンバーの成功を支援します
+* **実施**：チームプロセスを実施し、すべての人がメリットとトレードオフを理解していることを確認します
+* **サブシステム**：1つ以上のサブシステムまたはチームポッドに影響を与えます
 
-## D3 - Developer 3
+## D3-開発者3
 
-![Developer 3](/charts/developer-3.png)
+![開発者3](/charts/developer-3.png)
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Supports**: proactively supports other team members and helps them to be successful
-* **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **専門分野**：1つ以上のテクノロジーの頼りになる人物であり、新しいテクノロジーを学ぶために率先して行動します
+* **設計**：システムの技術的負債を削減しながら、中規模から大規模の機能を設計および実装します
+* **サポート**：他のチームメンバーを積極的にサポートし、チームメンバーの成功を支援します
+* **課題**：チームプロセスに挑戦し、それらを改善する方法を探します
+* **チーム**：チームの特定の部分だけでなく、チーム全体に影響を与えます
 
-## D4 - Developer 4
+## D4-開発者4
 
-![Developer 4](/charts/developer-4.png)
+![開発者4](/charts/developer-4.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **伝道**：調査し、概念実証を作成し、チームに新しいテクノロジーを導入します
+* **所有者**：システムの本番運用と監視を所有し、そのSLAを認識しています
+* **メンター**：他の人にキャリアの成長を加速するようにメンターし、参加を促します
+* **課題**：チームプロセスに挑戦し、それらを改善する方法を探します
+* **チーム**：チームの特定の部分だけでなく、チーム全体に影響を与えます
 
-## D5 - Developer 5
+## D5-開発者5
 
-![Developer 5](/charts/developer-5.png)
+![開発者5](/charts/developer-5.png)
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **マスター**：システムのテクノロジースタック全体について非常に深い知識を持っています
+* **Evolves**：将来の要件をサポートするためにアーキテクチャを進化させ、そのSLAを定義します
+* **メンター**：他の人にキャリアの成長を加速するようにメンターし、参加を促します
+* **調整**：チームプロセスを調整し、フィードバックを聞き、変更を通じてチームを導きます
+* **複数のチーム**：チーム全体だけでなく他のチームにも影響を与えます
 
-## D6 - Developer 6
+## D6-開発者6
 
-![Developer 6](/charts/developer-6.png)
+![開発者6](/charts/developer-6.png)
 
-* **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Company**: makes an impact on the whole tech organization
+* **作成**：内部または外部のチームによって広く使用されている新しいテクノロジーを設計および作成します
+* **リード**：システムの優れた技術をリードし、停止を軽減するための計画を作成します
+* **メンター**：他の人にキャリアの成長を加速するようにメンターし、参加を促します
+* **調整**：チームプロセスを調整し、フィードバックを聞き、変更を通じてチームを導きます
+* **会社**：技術組織全体に影響を与えます
 
-## D7 - Developer 7
+## D7-開発者7
 
-![Developer 7](/charts/developer-7.png)
+![開発者7](/charts/developer-7.png)
 
-* **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Community**: makes an impact on the tech community
+* **作成**：内部または外部のチームによって広く使用されている新しいテクノロジーを設計および作成します
+* **リード**：システムの優れた技術をリードし、停止を軽減するための計画を作成します
+* **メンター**：他の人にキャリアの成長を加速するようにメンターし、参加を促します
+* **調整**：チームプロセスを調整し、フィードバックを聞き、変更を通じてチームを導きます
+* **コミュニティ**：技術コミュニティに影響を与えます
 
-# Other Pages
+# その他のページ
 
-* [**Introduction**](README.md)
+* [**はじめに**](README.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**マネージャーの管理**](Managing-Managers.md)
