@@ -1,60 +1,59 @@
-# Tech Lead
+# テックリード
 
-Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
+開発リードとも呼ばれる役割は、システムの所有者であり、実践的な開発、アーキテクチャの知識、および本番環境のサポートの間で独自のバランスをとる必要があります。
 
-| Level | Seniority | Position |
-| :---: | :---: | :---: |
-| 4 | Senior | [TL4 - Tech Lead 4](#tl4---tech-lead-4) |
-| 5 | Senior | [TL5 - Tech Lead 5](#tl5---tech-lead-5) |
-| 6 | Senior | [TL6 - Tech Lead 6](#tl6---tech-lead-6) |
-| 7 | Senior | [TL7 - Tech Lead 7](#tl7---tech-lead-7) |
+|レベル|シニア|位置|
+|:---:|:---:|:---:|
+|4|シニア|[TL4-Tech Lead 4](#tl4---tech-lead-4)|
+|5|シニア|[TL5-Tech Lead 5](#tl5---tech-lead-5)|
+|6|シニア|[TL6-Tech Lead 6](#tl6---tech-lead-6)|
+|7|シニア|[TL7-Tech Lead 7](#tl7---tech-lead-7)|
 
 
-## TL4 - Tech Lead 4
+## TL4-テックリード4
 
 ![Tech Lead 4](/charts/techlead-4.png)
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **専門分野**：1つ以上のテクノロジーの頼りになる人物であり、新しいテクノロジーを学ぶために率先して行動します
+* **所有者**：システムの本番運用と監視を所有し、そのSLAを認識しています
+* **調整**：効果的なフィードバックを提供し、ディスカッションをモデレートするチームメンバーを調整します
+* **調整**：チームプロセスを調整し、フィードバックを聞き、変更を通じてチームを導きます
+* **サブシステム**：1つ以上のサブシステムまたはチームポッドに影響を与えます
 
-## TL5 - Tech Lead 5
+## TL5-テックリード5
 
 ![Tech Lead 5](/charts/techlead-5.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **伝道**：調査し、概念実証を作成し、チームに新しいテクノロジーを導入します
+* **Evolves**：将来の要件をサポートするためにアーキテクチャを進化させ、そのSLAを定義します
+* **調整**：効果的なフィードバックを提供し、ディスカッションをモデレートするチームメンバーを調整します
+* **定義**：チームの成熟度レベルに適したプロセスを定義し、敏捷性と規律のバランスを取ります
+* **チーム**：チームの特定の部分だけでなく、チーム全体に影響を与えます
 
-## TL6 - Tech Lead 6
+## TL6-テックリード6
 
 ![Tech Lead 6](/charts/techlead-6.png)
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **マスター**：システムのテクノロジースタック全体について非常に深い知識を持っています
+* **リード**：システムの優れた技術をリードし、停止を軽減するための計画を作成します
+* **調整**：効果的なフィードバックを提供し、ディスカッションをモデレートするチームメンバーを調整します
+* **定義**：チームの成熟度レベルに適したプロセスを定義し、敏捷性と規律のバランスを取ります
+* **複数のチーム**：チーム全体だけでなく他のチームにも影響を与えます
 
-## TL7 - Tech Lead 7
+## TL7-技術リーダー7
 
 ![Tech Lead 7](/charts/techlead-7.png)
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **マスター**：システムのテクノロジースタック全体について非常に深い知識を持っています
+* **リード**：システムの優れた技術をリードし、停止を軽減するための計画を作成します
+* **調整**：効果的なフィードバックを提供し、ディスカッションをモデレートするチームメンバーを調整します
+* **定義**：チームの成熟度レベルに適したプロセスを定義し、敏捷性と規律のバランスを取ります
+* **会社**：技術組織全体に影響を与えます
 
-# Other Pages
+# その他のページ
 
-* [**Introduction**](README.md)
+* [**はじめに**](README.md)
 * [**Developer**](Developer.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**マネージャーの管理**](Managing-Managers.md)
