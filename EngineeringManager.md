@@ -1,50 +1,50 @@
-# Engineering Manager
+# 技術管理者
 
-Role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team.
+開発マネージャーとしても知られる役割は、チームの一貫した提供、キャリアの成長、および幸福のレベルに責任があります。
 
-| Level | Seniority | Position |
-| :---: | :---: | :---: |
-| 5 | Senior | [EM5 - Engineering Manager 5](#em5---engineering-manager-5) |
-| 6 | Senior | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
-| 7 | Senior | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
+|レベル|シニア|位置|
+|:---:|:---:|:---:|
+|5|シニア|[EM5-エンジニアリングマネージャー5](#em5---engineering-manager-5)|
+|6|シニア|[EM6-エンジニアリングマネージャー6](#em6---engineering-manager-6)|
+|7|シニア|[EM7-エンジニアリングマネージャー7](#em7---engineering-manager-7)|
 
-If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
+直属の部下として他のマネージャーがいる場合は、[マネージャーの管理](Managing-Managers.md)セクションを読むことをお勧めします。これは、役割の「人の管理」の側面に関する詳細情報を提供するためです。
 
-## EM5 - Engineering Manager 5
+## EM5-エンジニアリングマネージャー5
 
-![Engineering Manager 5](/charts/engineeringmanager-5.png)
+![エンジニアリングマネージャー5](/charts/engineeringmanager-5.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **伝道**：調査し、概念実証を作成し、チームに新しいテクノロジーを導入します
+* **所有者**：システムの本番運用と監視を所有し、そのSLAを認識しています
+* **管理**：チームメンバーのキャリア、期待、パフォーマンス、幸福のレベルを管理します
+* **調整**：チームプロセスを調整し、フィードバックを聞き、変更を通じてチームを導きます
+* **チーム**：チームの特定の部分だけでなく、チーム全体に影響を与えます
 
-## EM6 - Engineering Manager 6
+## EM6-エンジニアリングマネージャー6
 
-![Engineering Manager 5](/charts/engineeringmanager-6.png)
+![エンジニアリングマネージャー5](/charts/engineeringmanager-6.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **伝道**：調査し、概念実証を作成し、チームに新しいテクノロジーを導入します
+* **Evolves**：将来の要件をサポートするためにアーキテクチャを進化させ、そのSLAを定義します
+* **管理**：チームメンバーのキャリア、期待、パフォーマンス、幸福のレベルを管理します
+* **定義**：チームの成熟度レベルに適したプロセスを定義し、敏捷性と規律のバランスを取ります
+* **チーム**：チームの特定の部分だけでなく、チーム全体に影響を与えます
 
-## EM7 - Engineering Manager 7
+## EM7-エンジニアリングマネージャー7
 
-![Engineering Manager 5](/charts/engineeringmanager-7.png)
+![エンジニアリングマネージャー5](/charts/engineeringmanager-7.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **伝道**：調査し、概念実証を作成し、チームに新しいテクノロジーを導入します
+* **Evolves**：将来の要件をサポートするためにアーキテクチャを進化させ、そのSLAを定義します
+* **管理**：チームメンバーのキャリア、期待、パフォーマンス、幸福のレベルを管理します
+* **定義**：チームの成熟度レベルに適したプロセスを定義し、敏捷性と規律のバランスを取ります
+* **複数のチーム**：チーム全体だけでなく他のチームにも影響を与えます
 
-# Other Pages
+# その他のページ
 
-* [**Introduction**](README.md)
+* [**はじめに**](README.md)
 * [**Developer**](Developer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**テクニカルプログラムマネージャー**](TechnicalProgramManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**マネージャーの管理**](Managing-Managers.md)
