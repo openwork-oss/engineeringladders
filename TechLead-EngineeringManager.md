@@ -1,40 +1,39 @@
-# Tech Lead vs Engineering Manager
+# テックリードvsエンジニアリングマネージャー
 
-It is very common for companies to mix the Tech Lead and Engineering Manager roles. Although both roles have some overlap, their focus is different: the Tech Lead is in charge of the *System* while the Engineering Manager is in charge of the *People*.
+企業が技術リーダーとエンジニアリングマネージャーの役​​割を混在させることは非常に一般的です。両方の役割にはいくつかの重複がありますが、焦点は異なります。技術リーダーが*システム*を担当し、エンジニアリングマネージャーが*人*を担当します。
 
-If the team is small and/or the leader has a lot of experience as Engineering Manager and Tech Lead, the same person might perform both roles. But as the system and team grow in size and complexity, there might be an opportunity to have different people for each role.
+チームが小さい場合、および/またはリーダーがエンジニアリングマネージャーおよび技術リーダーとしての経験が豊富な場合は、同じ人物が両方の役割を果たす可能性があります。しかし、システムとチームの規模と複雑さが増すにつれて、役割ごとに異なる人員がいる機会があるかもしれません。
 
-The following is a non-exhaustive list that exemplifies some of the different responsibilities of each role:
+以下は、各役割のさまざまな責任のいくつかを例示する非網羅的なリストです。
 
-| [Tech Lead](TechLead.md) (System) | [Engineering Manager](EngineeringManager.md) (People)|
-| :--- | :--- |
-| Technical Excellence and Innovation| Career Planning, Promotions and Coaching |
-| Architecture and System Integration | Headcount Planning and Hiring |
-| Tech Mentoring, Adoption and Alignment | Team Planning and Delivery |
-| Technical Spikes and Experiments​ | Objectives, Performance and Feedback |
-| Code Reviews and Feedback | One on Ones |
-| System Design Presentations​ | Participation in Technical Decisions |
-| Technical Capacity Planning​ | Cascading Communications​ |
-| Production Issues Escalation​ | Team Building Activities and Culture​ |
-| System SLAs, Metrics & Monitoring​ | Team Protection and Happiness​ |
-| Platform Direction, Patterns and Practices | Team Productivity and Metrics​ |
-| Alignment with other Tech Leads​ | Alignment with other Dev Managers​ |
-| Hands-On Coding 30% to 70% of the Time | Hands-On Coding 0% to 30% of the Time |
-| System Roadmap (shared)​ | System Roadmap (shared)​ |
-| Development Process (shared)​ | Development Process (shared)​ |
-| Team Visibility and Recognition (shared) | Team Visibility and Recognition (shared)​ |
-| Ability to Act as Engineering Manager when Required | Ability to Act as Tech Lead when Required |
+| [テックリード](TechLead.md)(システム)| [エンジニアリングマネージャー](EngineeringManager.md)(人)|
+| :---: | :---: |
+| 技術的卓越性と革新| キャリアプランニング、プロモーション、コーチング|
+| アーキテクチャとシステム統合| 人員計画と採用|
+| 技術指導、採用、調整| チームの計画と実施|
+| テクニカルスパイクと実験| 目的、パフォーマンス、フィードバック|
+| コードレビューとフィードバック| 1対1 |
+| システム設計プレゼンテーション| 技術的決定への参加|
+| 技術的能力計画| カスケード通信|
+| 生産問題のエスカレーション| チームビルディングの活動と文化|
+| システムSLA、メトリクス、モニタリング| チームの保護と幸福|
+| プラットフォームの方向性、パターン、および実践| チームの生産性と指標|
+| 他の技術リーダーとの連携| 他の開発マネージャーとの連携|
+| 30％から70％の時間のハンズオンコーディング| ハンズオンコーディング0％から30％の時間|
+| システムロードマップ(共有)| システムロードマップ(共有)|
+| 開発プロセス(共有)| 開発プロセス(共有)|
+| チームの可視性と認識(共有)| チームの可視性と認識(共有)|
+| 必要に応じてエンジニアリングマネージャーとして行動する能力| 必要に応じて技術リーダーとして行動する能力|
 
-The last point on each role highlights the fact that the lists are not mutually exclusive, and therefore many of the points from one side are also important on the other side too. An Engineering Manager that can't understand the technical challenges that the team is facing won't be successful at the role, the same is true for a Tech Lead that doesn't understand the career paths of the engineers in the team. 
+各役割の最後のポイントは、リストが相互に排他的ではないという事実を強調しています。したがって、一方のポイントの多くは、もう一方の側でも重要です。チームが直面している技術的な課題を理解できないエンジニアリングマネージャーは、その役割で成功しません。チーム内のエンジニアのキャリアパスを理解していない技術リーダーについても同じことが言えます。
 
-Having said that, although it is important for an Engineering Manager to be able act as a Tech Lead and vice versa, it also critical for them to focus and excel at the right things. Although there is a clear overlap and an opportunity for collaboration, both positions must know well who is responsible for what to avoid conflicts and misunderstandings.
+とはいえ、エンジニアリングマネージャーが技術リーダーとして行動できることは重要ですが、その逆も同様ですが、適切なことに集中して優れていることも重要です。明確な重複とコラボレーションの機会がありますが、どちらの立場も、対立や誤解を避けるために誰が責任を負っているのかをよく知っている必要があります。
 
 
-# Other Pages
+# その他のページ
 
-* [**Introduction**](README.md)
+* [**はじめに**](README.md)
 * [**Developer**](Developer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**マネージャーの管理**](Managing-Managers.md)
