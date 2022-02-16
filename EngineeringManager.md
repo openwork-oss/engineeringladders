@@ -1,4 +1,4 @@
-# 技術管理者
+# エンジニアリングマネージャー
 
 開発マネージャーとしても知られる役割は、チームの一貫した提供、キャリアの成長、および幸福のレベルに責任があります。
 
@@ -43,8 +43,8 @@
 # その他のページ
 
 * [**はじめに**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
+* [**開発者**](Developer.md)
+* [**テックリード**](TechLead.md)
 * [**テクニカルプログラムマネージャー**](TechnicalProgramManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**テックリード vs エンジニアリングマネージャー**](TechLead-EngineeringManager.md)
 * [**マネージャーの管理**](Managing-Managers.md)
