@@ -40,7 +40,7 @@
 * **定義**：チームの成熟度レベルに適したプロセスを定義し、敏捷性と規律のバランスを取ります
 * **複数のチーム**：チーム全体だけでなく他のチームにも影響を与えます
 
-## TL7-技術リーダー7
+## TL7-テックリード7
 
 ![Tech Lead 7](/charts/techlead-7.png)
 
@@ -53,7 +53,7 @@
 # その他のページ
 
 * [**はじめに**](README.md)
-* [**Developer**](Developer.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**開発者**](Developer.md)
+* [**エンジニアリングマネージャー**](EngineeringManager.md)
+* [**テックリード vs エンジニアリングマネージャー**](TechLead-EngineeringManager.md)
 * [**マネージャーの管理**](Managing-Managers.md)
