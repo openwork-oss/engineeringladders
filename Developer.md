@@ -1,4 +1,4 @@
-# デベロッパー
+# 開発者
 
 プログラマーまたはソフトウェアエンジニアとしても知られる役割には、深いレベルの技術的専門知識が必要です。
 
@@ -85,7 +85,7 @@
 # その他のページ
 
 * [**はじめに**](README.md)
-* [**Tech Lead**](TechLead.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**テックリード**](TechLead.md)
+* [**エンジニアリングマネージャー**](EngineeringManager.md)
+* [**テックリード vs エンジニアリングマネージャー**](TechLead-EngineeringManager.md)
 * [**マネージャーの管理**](Managing-Managers.md)
