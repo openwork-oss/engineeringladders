@@ -33,7 +33,7 @@
 # その他のページ
 
 * [**はじめに**](README.md)
-* [**開発者**](Developer.md)
+* [**開発リード**](DevelopLead.md)
 * [**テックリード**](TechLead.md)
 * [**エンジニアリングマネージャー**](EngineeringManager.md)
 * [**マネージャーの管理**](Managing-Managers.md)

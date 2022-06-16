@@ -10,23 +10,12 @@
 
 フレームワークには3つの異なるラダーがあります。
 
-* [**開発者**](Developer.md)：プログラマーまたはソフトウェアエンジニアとも呼ばれる役割には、深いレベルの技術的専門知識が必要です
-* [**テックリード**](TechLead.md)：開発リードとも呼ばれる役割は、システムの所有者であり、実践的な開発、アーキテクチャの知識、および本番サポートの間の独自のバランスが必要です。
+* [**開発リード**](DevelopLead.md)：プログラマーまたはソフトウェアエンジニアとも呼ばれる役割には、深いレベルの技術的専門知識が必要です
+* [**テックリード**](TechLead.md)：システムの所有者であり、実践的な開発、アーキテクチャの知識、および本番サポートの間の独自のバランスが必要です。
 * [**エンジニアリングマネージャー**](EngineeringManager.md)：開発マネージャーとも呼ばれる役割は、チームの一貫した提供、キャリアの成長、および幸福のレベルに責任があります
 
 [テックリード](TechLead.md)と[エンジニアリングマネージャー](EngineeringManager.md)の違いについて混乱している場合は、[テックリード vs エンジニアリングマネージャー](TechLead-EngineeringManager.md)ページを参照してください。詳細な比較。
 
-|レベル|シニア|[開発者](Developer.md)|[テックリード](TechLead.md)|[エンジニアリングマネージャー](EngineeringManager.md)|
-|:---:|:---:|:---:|:---:|:---:|
-|1|ジュニア|[D1](Developer.md#d1---開発者-1)|||
-|2|ジュニア|[D2](Developer.md#d2---開発者-2)|||
-|3|ジュニア|[D3](Developer.md#d3---開発者-3)|||
-|4|シニア|[D4](Developer.md#d4---開発者-4)|[TL4](TechLead.md#tl4---テックリード-4)||
-|5|シニア|[D5](Developer.md#d5---開発者-5)|[TL5](TechLead.md#tl5---テックリード-5)|[EM5](EngineeringManager.md#em5---エンジニアリングマネージャー-5)|
-|6|シニア|[D6](Developer.md#d6---開発者-6)|[TL6](TechLead.md#tl6---テックリード-6)|[EM6](EngineeringManager.md#em6---エンジニアリングマネージャー-6)|
-|7|シニア|[D7](Developer.md#d7---開発者-7)|[TL7](TechLead.md#tl7---テックリード-7)|[EM7](EngineeringManager.md#em7---エンジニアリングマネージャー-7)|
-
-(詳細については、ポジション名をクリックしてください)
 
 # 軸
 
@@ -100,7 +89,7 @@
 
 # その他のページ
 
-* [**開発者**](Developer.md)
+* [**開発リード**](DevelopLead.md)
 * [**テックリード**](TechLead.md)
 * [**エンジニアリングマネージャー**](EngineeringManager.md)
 * [**テックリード vs エンジニアリングマネージャー**](TechLead-EngineeringManager.md)
