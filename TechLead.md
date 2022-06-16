@@ -16,4 +16,3 @@
 * [**開発リード**](DevelopLead.md)
 * [**エンジニアリングマネージャー**](EngineeringManager.md)
 * [**テックリード vs エンジニアリングマネージャー**](TechLead-EngineeringManager.md)
-* [**マネージャーの管理**](Managing-Managers.md)
